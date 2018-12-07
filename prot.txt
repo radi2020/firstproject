@@ -1,0 +1,15 @@
+<string name="duis_mollis">
+
+Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia sem.
+</string>
+
+---------------------------------------------------------------------------
+
+
+<string name="dessinez_un">
+
+Dessinez un sch\u00C3\u00A9ma de d\u00C3\u00A9verouillage \u00E2\u0080\u00A8pour acc\u00C3\u00A9der \u00C3\u00A0 l\u00E2\u0080\u0099application
+</string>
+
+
+--------------------------------
